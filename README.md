@@ -24,3 +24,11 @@ https://cp.xrea.com/site/tools/
 
 # 必要な情報
 「XREA.COM NEW SINGUP」 というメールに書かれている
+
+# リリース手順
+
+プロジェクトディレクトリで以下のコマンドを実行してください
+
+```
+sh deploy.sh
+```
